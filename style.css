@@ -1,6 +1,6 @@
 body {
   color: white;
-  background-image: url("https://cdn.discordapp.com/attachments/695008691241484329/789952194731966484/unknown.png");
+  background-color: turquoise;
   height: 100%; 
   background-position: center;
   background-repeat: repeat;
@@ -9,9 +9,13 @@ body {
 }
 
 h1 {
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap');
+  font-family: 'Noto Sans JP', sans-serif;
+  style-font: sans-serif;
   color: white;
   text-align: center;
 }
+
 
 p {
   text-align: center;
