@@ -1,6 +1,11 @@
 body {
   background-color: blanchedalmond;
   color: black;
+    @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+  font-family: 'EB Garamond', serif;
+  style-font: sans-serif;
+  color: white;
+  text-align: center;
   font-style: sans-serif;
   text-align: center;
 }
